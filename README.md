@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-[![FastDong's GitHub stats](https://github-readme-stats.vercel.app/api?username=FastDong)](https://github.com/FastDong/FastDong)
+[![FastDong's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=FastDong)](https://github.com/FastDong/FastDong)
