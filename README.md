@@ -15,12 +15,6 @@
 ### ☁️ Cloud
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🎮 Creative Tech
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![RealityScan](https://img.shields.io/badge/RealityScan-Epic_Games-orange?style=for-the-badge)
-
----
-
 ## 🏗️ Ongoing Project: "Realistic Health-Twin Platform"
 > **A 3-Tier Architecture for Metabolic Syndrome Prediction**
 - **Phase 1:** Multi-stage Model (XGBoost + Decision Tree) for high-accuracy prediction.
